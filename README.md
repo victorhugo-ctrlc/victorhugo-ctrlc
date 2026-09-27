@@ -1,16 +1,16 @@
-## Hi there 👋
+## 🌐
 
-<!--
-**victorhugo-ctrlc/victorhugo-ctrlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<img src="https://i.pinimg.com/1200x/06/6f/a2/066fa2cb37aa563522fa6c1f0760d172.jpg" width="50%" alt="banner" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/><br/>
+
+<br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=seu-usuario&color=blueviolet&style=flat-square)
+![Profile Views](https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-blueviolet?style=flat-square)
+
+</div>
+
+<br/>
