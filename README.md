@@ -1,14 +1,6 @@
-## 🌐
-
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<img src="https://i.pinimg.com/1200x/06/6f/a2/066fa2cb37aa563522fa6c1f0760d172.jpg" width="50%" alt="banner" />
-
-</div>
-
-![Visitors](https://komarev.com/ghpvc/?username=seu-usuario&color=blueviolet&style=flat-square)
-![Profile Views](https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-blueviolet?style=flat-square)
-
-</div>
-
-<br/>
+###
